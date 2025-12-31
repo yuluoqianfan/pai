@@ -1,0 +1,191 @@
+{
+  "论文标题": "统一认知规范场论（Unifie",
+  "原始内容长度": 3164,
+  "处理后内容长度": 3204,
+  "总转换迭代次数": 5,
+  "总球体相交点": 0,
+  "平均违和强度": 1.32,
+  "转换历史": [
+    {
+      "iteration": 1,
+      "process_result": "统一认知规范场论（Unified Cognitive Gauge Theory, UCGT）完整数学_processed_by_统一认知规范场论（Unifie_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 13073282,
+        "avg_char_code": 13073.28,
+        "delta_psi": 0.98,
+        "balance_value": 5,
+        "text_length": 1000,
+        "text_sample": "统一认知规范场论（Unified Cognitive Gauge Theory, UCGT）完整数学操作框架\r \r一、大一统场的范畴化构建\r \r1. 范畴定义：大一统场范畴 \\mathcal{U}，对..."
+      },
+      "data_analysis": {
+        "分析迭代": 1,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 13073.28,
+          "方差": 311069207.13,
+          "标准差": 17637.15,
+          "最小值": 13,
+          "最大值": 65307
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 116.0,
+          "数据范围": "13 - 65307",
+          "数据集中度": "低"
+        }
+      },
+      "timestamp": "2026-01-01 00:41:35"
+    },
+    {
+      "iteration": 2,
+      "process_result": "[转换迭代1] 统一认知规范场论（Unified Cognitive Gauge Theory, U_processed_by_统一认知规范场论（Unifie_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 13069651,
+        "avg_char_code": 13069.65,
+        "delta_psi": 1.29,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代1] 统一认知规范场论（Unified Cognitive Gauge Theory, UCGT）完整数学操作框架\r \r一、大一统场的范畴化构建\r \r1. 范畴定义：大一统场范畴 \\math..."
+      },
+      "data_analysis": {
+        "分析迭代": 2,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 13073.28,
+          "方差": 311069207.13,
+          "标准差": 17637.15,
+          "最小值": 13,
+          "最大值": 65307
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 116.0,
+          "数据范围": "13 - 65307",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 2 vs 迭代 1"
+        }
+      },
+      "timestamp": "2026-01-01 00:41:36"
+    },
+    {
+      "iteration": 3,
+      "process_result": "[转换迭代2] [转换迭代1] 统一认知规范场论（Unified Cognitive Gauge T_processed_by_统一认知规范场论（Unifie_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 13031869,
+        "avg_char_code": 13031.87,
+        "delta_psi": 1.11,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代2] [转换迭代1] 统一认知规范场论（Unified Cognitive Gauge Theory, UCGT）完整数学操作框架\r \r一、大一统场的范畴化构建\r \r1. 范畴定义：大一统场..."
+      },
+      "data_analysis": {
+        "分析迭代": 3,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 13073.28,
+          "方差": 311069207.13,
+          "标准差": 17637.15,
+          "最小值": 13,
+          "最大值": 65307
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 116.0,
+          "数据范围": "13 - 65307",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 3 vs 迭代 2"
+        }
+      },
+      "timestamp": "2026-01-01 00:41:36"
+    },
+    {
+      "iteration": 4,
+      "process_result": "[转换迭代3] [转换迭代2] [转换迭代1] 统一认知规范场论（Unified Cognitive_processed_by_统一认知规范场论（Unifie_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 12990809,
+        "avg_char_code": 12990.81,
+        "delta_psi": 1.71,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代3] [转换迭代2] [转换迭代1] 统一认知规范场论（Unified Cognitive Gauge Theory, UCGT）完整数学操作框架\r \r一、大一统场的范畴化构建\r \r1. 范..."
+      },
+      "data_analysis": {
+        "分析迭代": 4,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 13073.28,
+          "方差": 311069207.13,
+          "标准差": 17637.15,
+          "最小值": 13,
+          "最大值": 65307
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 116.0,
+          "数据范围": "13 - 65307",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 4 vs 迭代 3"
+        }
+      },
+      "timestamp": "2026-01-01 00:41:37"
+    },
+    {
+      "iteration": 5,
+      "process_result": "[转换迭代4] [转换迭代3] [转换迭代2] [转换迭代1] 统一认知规范场论（Unified C_processed_by_统一认知规范场论（Unifie_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 12982229,
+        "avg_char_code": 12982.23,
+        "delta_psi": 1.51,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代4] [转换迭代3] [转换迭代2] [转换迭代1] 统一认知规范场论（Unified Cognitive Gauge Theory, UCGT）完整数学操作框架\r \r一、大一统场的范畴化构..."
+      },
+      "data_analysis": {
+        "分析迭代": 5,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 13073.28,
+          "方差": 311069207.13,
+          "标准差": 17637.15,
+          "最小值": 13,
+          "最大值": 65307
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 116.0,
+          "数据范围": "13 - 65307",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 5 vs 迭代 4"
+        }
+      },
+      "timestamp": "2026-01-01 00:41:38"
+    }
+  ],
+  "球体参数": {
+    "半径": 1.8,
+    "中心点": [
+      8.75,
+      9.0,
+      0.0
+    ]
+  },
+  "系统验证状态": "通过",
+  "生成时间": "2026-01-01 00:41:38"
+}

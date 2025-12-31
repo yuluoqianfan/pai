@@ -1,0 +1,191 @@
+{
+  "论文标题": "导致ai推导触发文本",
+  "原始内容长度": 444,
+  "处理后内容长度": 484,
+  "总转换迭代次数": 5,
+  "总球体相交点": 0,
+  "平均违和强度": 1.24,
+  "转换历史": [
+    {
+      "iteration": 1,
+      "process_result": "> 基于我们之前的“认知球理论”（First Sphere as High Entropy, Sec_processed_by_导致ai推导触发文本_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 6904528,
+        "avg_char_code": 15550.74,
+        "delta_psi": 1.52,
+        "balance_value": 6,
+        "text_length": 444,
+        "text_sample": "> 基于我们之前的“认知球理论”（First Sphere as High Entropy, Second Sphere as Logic Iron, Three Axioms），请你扮演一位顶尖的*..."
+      },
+      "data_analysis": {
+        "分析迭代": 1,
+        "基本统计": {
+          "数据点数量": 444,
+          "平均值": 15550.74,
+          "方差": 313315398.31,
+          "标准差": 17700.72,
+          "最小值": 13,
+          "最大值": 65306
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 10255.5,
+          "数据范围": "13 - 65306",
+          "数据集中度": "低"
+        }
+      },
+      "timestamp": "2026-01-01 00:38:37"
+    },
+    {
+      "iteration": 2,
+      "process_result": "[转换迭代1] > 基于我们之前的“认知球理论”（First Sphere as High Entr_processed_by_导致ai推导触发文本_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 7023991,
+        "avg_char_code": 15539.8,
+        "delta_psi": 0.89,
+        "balance_value": 9,
+        "text_length": 452,
+        "text_sample": "[转换迭代1] > 基于我们之前的“认知球理论”（First Sphere as High Entropy, Second Sphere as Logic Iron, Three Axioms），请你..."
+      },
+      "data_analysis": {
+        "分析迭代": 2,
+        "基本统计": {
+          "数据点数量": 444,
+          "平均值": 15550.74,
+          "方差": 313315398.31,
+          "标准差": 17700.72,
+          "最小值": 13,
+          "最大值": 65306
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 10255.5,
+          "数据范围": "13 - 65306",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 2 vs 迭代 1"
+        }
+      },
+      "timestamp": "2026-01-01 00:38:38"
+    },
+    {
+      "iteration": 3,
+      "process_result": "[转换迭代2] [转换迭代1] > 基于我们之前的“认知球理论”（First Sphere as H_processed_by_导致ai推导触发文本_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 7143455,
+        "avg_char_code": 15529.25,
+        "delta_psi": 1.25,
+        "balance_value": 9,
+        "text_length": 460,
+        "text_sample": "[转换迭代2] [转换迭代1] > 基于我们之前的“认知球理论”（First Sphere as High Entropy, Second Sphere as Logic Iron, Three Ax..."
+      },
+      "data_analysis": {
+        "分析迭代": 3,
+        "基本统计": {
+          "数据点数量": 444,
+          "平均值": 15550.74,
+          "方差": 313315398.31,
+          "标准差": 17700.72,
+          "最小值": 13,
+          "最大值": 65306
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 10255.5,
+          "数据范围": "13 - 65306",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 3 vs 迭代 2"
+        }
+      },
+      "timestamp": "2026-01-01 00:38:38"
+    },
+    {
+      "iteration": 4,
+      "process_result": "[转换迭代3] [转换迭代2] [转换迭代1] > 基于我们之前的“认知球理论”（First Sph_processed_by_导致ai推导触发文本_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 7262920,
+        "avg_char_code": 15519.06,
+        "delta_psi": 1.6,
+        "balance_value": 9,
+        "text_length": 468,
+        "text_sample": "[转换迭代3] [转换迭代2] [转换迭代1] > 基于我们之前的“认知球理论”（First Sphere as High Entropy, Second Sphere as Logic Iron, ..."
+      },
+      "data_analysis": {
+        "分析迭代": 4,
+        "基本统计": {
+          "数据点数量": 444,
+          "平均值": 15550.74,
+          "方差": 313315398.31,
+          "标准差": 17700.72,
+          "最小值": 13,
+          "最大值": 65306
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 10255.5,
+          "数据范围": "13 - 65306",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 4 vs 迭代 3"
+        }
+      },
+      "timestamp": "2026-01-01 00:38:39"
+    },
+    {
+      "iteration": 5,
+      "process_result": "[转换迭代4] [转换迭代3] [转换迭代2] [转换迭代1] > 基于我们之前的“认知球理论”（F_processed_by_导致ai推导触发文本_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 7382386,
+        "avg_char_code": 15509.21,
+        "delta_psi": 0.94,
+        "balance_value": 9,
+        "text_length": 476,
+        "text_sample": "[转换迭代4] [转换迭代3] [转换迭代2] [转换迭代1] > 基于我们之前的“认知球理论”（First Sphere as High Entropy, Second Sphere as Logi..."
+      },
+      "data_analysis": {
+        "分析迭代": 5,
+        "基本统计": {
+          "数据点数量": 444,
+          "平均值": 15550.74,
+          "方差": 313315398.31,
+          "标准差": 17700.72,
+          "最小值": 13,
+          "最大值": 65306
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 10255.5,
+          "数据范围": "13 - 65306",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 5 vs 迭代 4"
+        }
+      },
+      "timestamp": "2026-01-01 00:38:40"
+    }
+  ],
+  "球体参数": {
+    "半径": 1.8,
+    "中心点": [
+      8.75,
+      9.0,
+      0.0
+    ]
+  },
+  "系统验证状态": "通过",
+  "生成时间": "2026-01-01 00:38:40"
+}

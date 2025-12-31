@@ -1,0 +1,191 @@
+{
+  "论文标题": "豆包推导公式的结果",
+  "原始内容长度": 2275,
+  "处理后内容长度": 2315,
+  "总转换迭代次数": 5,
+  "总球体相交点": 0,
+  "平均违和强度": 1.342,
+  "转换历史": [
+    {
+      "iteration": 1,
+      "process_result": "latex\r  \r\r% 认知球理论的数学形式化系统\r\\documentclass{article}\r_processed_by_豆包推导公式的结果_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 9187492,
+        "avg_char_code": 9187.49,
+        "delta_psi": 0.88,
+        "balance_value": 1,
+        "text_length": 1000,
+        "text_sample": "latex\r  \r\r% 认知球理论的数学形式化系统\r\\documentclass{article}\r\\usepackage{amsmath,amssymb,topology}\r\r\\begin{docu..."
+      },
+      "data_analysis": {
+        "分析迭代": 1,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 9187.49,
+          "方差": 271937007.62,
+          "标准差": 16490.51,
+          "最小值": 13,
+          "最大值": 65307
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 108.0,
+          "数据范围": "13 - 65307",
+          "数据集中度": "低"
+        }
+      },
+      "timestamp": "2026-01-01 00:43:04"
+    },
+    {
+      "iteration": 2,
+      "process_result": "[转换迭代1] latex\r  \r\r% 认知球理论的数学形式化系统\r\\documentclass{a_processed_by_豆包推导公式的结果_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 9055766,
+        "avg_char_code": 9055.77,
+        "delta_psi": 1.14,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代1] latex\r  \r\r% 认知球理论的数学形式化系统\r\\documentclass{article}\r\\usepackage{amsmath,amssymb,topology}\r\r\\be..."
+      },
+      "data_analysis": {
+        "分析迭代": 2,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 9187.49,
+          "方差": 271937007.62,
+          "标准差": 16490.51,
+          "最小值": 13,
+          "最大值": 65307
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 108.0,
+          "数据范围": "13 - 65307",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 2 vs 迭代 1"
+        }
+      },
+      "timestamp": "2026-01-01 00:43:05"
+    },
+    {
+      "iteration": 3,
+      "process_result": "[转换迭代2] [转换迭代1] latex\r  \r\r% 认知球理论的数学形式化系统\r\\documen_processed_by_豆包推导公式的结果_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 8942515,
+        "avg_char_code": 8942.51,
+        "delta_psi": 1.65,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代2] [转换迭代1] latex\r  \r\r% 认知球理论的数学形式化系统\r\\documentclass{article}\r\\usepackage{amsmath,amssymb,topolo..."
+      },
+      "data_analysis": {
+        "分析迭代": 3,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 9187.49,
+          "方差": 271937007.62,
+          "标准差": 16490.51,
+          "最小值": 13,
+          "最大值": 65307
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 108.0,
+          "数据范围": "13 - 65307",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 3 vs 迭代 2"
+        }
+      },
+      "timestamp": "2026-01-01 00:43:06"
+    },
+    {
+      "iteration": 4,
+      "process_result": "[转换迭代3] [转换迭代2] [转换迭代1] latex\r  \r\r% 认知球理论的数学形式化系统\r_processed_by_豆包推导公式的结果_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 8927949,
+        "avg_char_code": 8927.95,
+        "delta_psi": 1.31,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代3] [转换迭代2] [转换迭代1] latex\r  \r\r% 认知球理论的数学形式化系统\r\\documentclass{article}\r\\usepackage{amsmath,amssym..."
+      },
+      "data_analysis": {
+        "分析迭代": 4,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 9187.49,
+          "方差": 271937007.62,
+          "标准差": 16490.51,
+          "最小值": 13,
+          "最大值": 65307
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 108.0,
+          "数据范围": "13 - 65307",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 4 vs 迭代 3"
+        }
+      },
+      "timestamp": "2026-01-01 00:43:06"
+    },
+    {
+      "iteration": 5,
+      "process_result": "[转换迭代4] [转换迭代3] [转换迭代2] [转换迭代1] latex\r  \r\r% 认知球理论的_processed_by_豆包推导公式的结果_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 9046707,
+        "avg_char_code": 9046.71,
+        "delta_psi": 1.73,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代4] [转换迭代3] [转换迭代2] [转换迭代1] latex\r  \r\r% 认知球理论的数学形式化系统\r\\documentclass{article}\r\\usepackage{amsmat..."
+      },
+      "data_analysis": {
+        "分析迭代": 5,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 9187.49,
+          "方差": 271937007.62,
+          "标准差": 16490.51,
+          "最小值": 13,
+          "最大值": 65307
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 108.0,
+          "数据范围": "13 - 65307",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 5 vs 迭代 4"
+        }
+      },
+      "timestamp": "2026-01-01 00:43:07"
+    }
+  ],
+  "球体参数": {
+    "半径": 1.8,
+    "中心点": [
+      8.75,
+      9.0,
+      0.0
+    ]
+  },
+  "系统验证状态": "通过",
+  "生成时间": "2026-01-01 00:43:08"
+}

@@ -1,0 +1,191 @@
+{
+  "论文标题": "ai自主推导之公式",
+  "原始内容长度": 2500,
+  "处理后内容长度": 2540,
+  "总转换迭代次数": 5,
+  "总球体相交点": 0,
+  "平均违和强度": 1.232,
+  "转换历史": [
+    {
+      "iteration": 1,
+      "process_result": "\\documentclass{article}\r\\usepackage{amsmath,amssym_processed_by_ai自主推导之公式_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 5490119,
+        "avg_char_code": 5490.12,
+        "delta_psi": 1.61,
+        "balance_value": 3,
+        "text_length": 1000,
+        "text_sample": "\\documentclass{article}\r\\usepackage{amsmath,amssymb,amsfonts}\r\\usepackage{mathtools}\r\\begin{document..."
+      },
+      "data_analysis": {
+        "分析迭代": 1,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 5490.12,
+          "方差": 165577086.67,
+          "标准差": 12867.68,
+          "最小值": 13,
+          "最大值": 65306
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 105.0,
+          "数据范围": "13 - 65306",
+          "数据集中度": "低"
+        }
+      },
+      "timestamp": "2026-01-01 00:36:36"
+    },
+    {
+      "iteration": 2,
+      "process_result": "[转换迭代1] \\documentclass{article}\r\\usepackage{amsmat_processed_by_ai自主推导之公式_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 5608969,
+        "avg_char_code": 5608.97,
+        "delta_psi": 1.11,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代1] \\documentclass{article}\r\\usepackage{amsmath,amssymb,amsfonts}\r\\usepackage{mathtools}\r\\begin{..."
+      },
+      "data_analysis": {
+        "分析迭代": 2,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 5490.12,
+          "方差": 165577086.67,
+          "标准差": 12867.68,
+          "最小值": 13,
+          "最大值": 65306
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 105.0,
+          "数据范围": "13 - 65306",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 2 vs 迭代 1"
+        }
+      },
+      "timestamp": "2026-01-01 00:36:37"
+    },
+    {
+      "iteration": 3,
+      "process_result": "[转换迭代2] [转换迭代1] \\documentclass{article}\r\\usepackag_processed_by_ai自主推导之公式_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 5727657,
+        "avg_char_code": 5727.66,
+        "delta_psi": 1.23,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代2] [转换迭代1] \\documentclass{article}\r\\usepackage{amsmath,amssymb,amsfonts}\r\\usepackage{mathtools}..."
+      },
+      "data_analysis": {
+        "分析迭代": 3,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 5490.12,
+          "方差": 165577086.67,
+          "标准差": 12867.68,
+          "最小值": 13,
+          "最大值": 65306
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 105.0,
+          "数据范围": "13 - 65306",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 3 vs 迭代 2"
+        }
+      },
+      "timestamp": "2026-01-01 00:36:38"
+    },
+    {
+      "iteration": 4,
+      "process_result": "[转换迭代3] [转换迭代2] [转换迭代1] \\documentclass{article}\r\\u_processed_by_ai自主推导之公式_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 5846563,
+        "avg_char_code": 5846.56,
+        "delta_psi": 1.17,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代3] [转换迭代2] [转换迭代1] \\documentclass{article}\r\\usepackage{amsmath,amssymb,amsfonts}\r\\usepackage{ma..."
+      },
+      "data_analysis": {
+        "分析迭代": 4,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 5490.12,
+          "方差": 165577086.67,
+          "标准差": 12867.68,
+          "最小值": 13,
+          "最大值": 65306
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 105.0,
+          "数据范围": "13 - 65306",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 4 vs 迭代 3"
+        }
+      },
+      "timestamp": "2026-01-01 00:36:38"
+    },
+    {
+      "iteration": 5,
+      "process_result": "[转换迭代4] [转换迭代3] [转换迭代2] [转换迭代1] \\documentclass{art_processed_by_ai自主推导之公式_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 5965276,
+        "avg_char_code": 5965.28,
+        "delta_psi": 1.04,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代4] [转换迭代3] [转换迭代2] [转换迭代1] \\documentclass{article}\r\\usepackage{amsmath,amssymb,amsfonts}\r\\usepa..."
+      },
+      "data_analysis": {
+        "分析迭代": 5,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 5490.12,
+          "方差": 165577086.67,
+          "标准差": 12867.68,
+          "最小值": 13,
+          "最大值": 65306
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 105.0,
+          "数据范围": "13 - 65306",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 5 vs 迭代 4"
+        }
+      },
+      "timestamp": "2026-01-01 00:36:39"
+    }
+  ],
+  "球体参数": {
+    "半径": 1.8,
+    "中心点": [
+      8.75,
+      9.0,
+      0.0
+    ]
+  },
+  "系统验证状态": "通过",
+  "生成时间": "2026-01-01 00:36:40"
+}

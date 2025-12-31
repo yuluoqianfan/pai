@@ -1,0 +1,191 @@
+{
+  "论文标题": "多重防护代码",
+  "原始内容长度": 6088,
+  "处理后内容长度": 6128,
+  "总转换迭代次数": 5,
+  "总球体相交点": 0,
+  "平均违和强度": 1.25,
+  "转换历史": [
+    {
+      "iteration": 1,
+      "process_result": "from fastapi import FastAPI, Header, HTTPException_processed_by_多重防护代码_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 393327,
+        "avg_char_code": 393.33,
+        "delta_psi": 1.53,
+        "balance_value": 7,
+        "text_length": 1000,
+        "text_sample": "from fastapi import FastAPI, Header, HTTPException\rfrom pydantic import BaseModel\rimport time\rimport..."
+      },
+      "data_analysis": {
+        "分析迭代": 1,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 393.33,
+          "方差": 8260266.08,
+          "标准差": 2874.07,
+          "最小值": 13,
+          "最大值": 36890
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 100.0,
+          "数据范围": "13 - 36890",
+          "数据集中度": "低"
+        }
+      },
+      "timestamp": "2026-01-01 00:38:30"
+    },
+    {
+      "iteration": 2,
+      "process_result": "[转换迭代1] from fastapi import FastAPI, Header, HTTPE_processed_by_多重防护代码_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 512271,
+        "avg_char_code": 512.27,
+        "delta_psi": 1.09,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代1] from fastapi import FastAPI, Header, HTTPException\rfrom pydantic import BaseModel\rimport tim..."
+      },
+      "data_analysis": {
+        "分析迭代": 2,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 393.33,
+          "方差": 8260266.08,
+          "标准差": 2874.07,
+          "最小值": 13,
+          "最大值": 36890
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 100.0,
+          "数据范围": "13 - 36890",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 2 vs 迭代 1"
+        }
+      },
+      "timestamp": "2026-01-01 00:38:31"
+    },
+    {
+      "iteration": 3,
+      "process_result": "[转换迭代2] [转换迭代1] from fastapi import FastAPI, Heade_processed_by_多重防护代码_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 631178,
+        "avg_char_code": 631.18,
+        "delta_psi": 1.02,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代2] [转换迭代1] from fastapi import FastAPI, Header, HTTPException\rfrom pydantic import BaseModel\rim..."
+      },
+      "data_analysis": {
+        "分析迭代": 3,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 393.33,
+          "方差": 8260266.08,
+          "标准差": 2874.07,
+          "最小值": 13,
+          "最大值": 36890
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 100.0,
+          "数据范围": "13 - 36890",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 3 vs 迭代 2"
+        }
+      },
+      "timestamp": "2026-01-01 00:38:32"
+    },
+    {
+      "iteration": 4,
+      "process_result": "[转换迭代3] [转换迭代2] [转换迭代1] from fastapi import FastAP_processed_by_多重防护代码_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 750187,
+        "avg_char_code": 750.19,
+        "delta_psi": 0.93,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代3] [转换迭代2] [转换迭代1] from fastapi import FastAPI, Header, HTTPException\rfrom pydantic import Base..."
+      },
+      "data_analysis": {
+        "分析迭代": 4,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 393.33,
+          "方差": 8260266.08,
+          "标准差": 2874.07,
+          "最小值": 13,
+          "最大值": 36890
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 100.0,
+          "数据范围": "13 - 36890",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 4 vs 迭代 3"
+        }
+      },
+      "timestamp": "2026-01-01 00:38:33"
+    },
+    {
+      "iteration": 5,
+      "process_result": "[转换迭代4] [转换迭代3] [转换迭代2] [转换迭代1] from fastapi impor_processed_by_多重防护代码_转换引擎",
+      "sphere_analysis": {
+        "intersections": [],
+        "total_char_codes": 869112,
+        "avg_char_code": 869.11,
+        "delta_psi": 1.68,
+        "balance_value": 9,
+        "text_length": 1000,
+        "text_sample": "[转换迭代4] [转换迭代3] [转换迭代2] [转换迭代1] from fastapi import FastAPI, Header, HTTPException\rfrom pydantic imp..."
+      },
+      "data_analysis": {
+        "分析迭代": 5,
+        "基本统计": {
+          "数据点数量": 1000,
+          "平均值": 393.33,
+          "方差": 8260266.08,
+          "标准差": 2874.07,
+          "最小值": 13,
+          "最大值": 36890
+        },
+        "数据模式": {
+          "数据趋势": "波动",
+          "中位数": 100.0,
+          "数据范围": "13 - 36890",
+          "数据集中度": "低"
+        },
+        "自指分析改进": {
+          "平均值变化百分比": 0.0,
+          "分析深度提升": "迭代 5 vs 迭代 4"
+        }
+      },
+      "timestamp": "2026-01-01 00:38:34"
+    }
+  ],
+  "球体参数": {
+    "半径": 1.8,
+    "中心点": [
+      8.75,
+      9.0,
+      0.0
+    ]
+  },
+  "系统验证状态": "通过",
+  "生成时间": "2026-01-01 00:38:34"
+}
